@@ -30,6 +30,14 @@ The tool automatically requests administrator privileges on launch, so users can
   <img width="32%" alt="Set DHCP" src="https://github.com/user-attachments/assets/4a62691c-d3be-4c90-9877-e59d94a9f1da" />
 </p>
 
+## Download
+
+> [!TIP]
+> **Ready-to-run executable:**
+> [Download StaticIPConfig.exe](https://github.com/fouad-salehi/windows-set-static-ip-gui/releases/latest/download/StaticIPConfig.exe)
+>
+> No Python installation required. Just download, run, and start configuring.
+
 ## Technologies
 
 - Python 3.10+
@@ -65,7 +73,7 @@ Then run `python main.py`.
 
 > [!TIP]
 > **Direct download:**
-> [StaticIPConfig.exe](https://github.com/fouad-salehi/windows-set-static-ip-gui/releases/latest)
+> [StaticIPConfig.exe](https://github.com/fouad-salehi/windows-set-static-ip-gui/releases/latest/download/StaticIPConfig.exe)
 
 Download the file and double-click it — no installation required.
 
