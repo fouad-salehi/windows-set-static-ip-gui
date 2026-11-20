@@ -34,7 +34,7 @@ The tool automatically requests administrator privileges on launch, so users can
 
 > [!TIP]
 > **Ready-to-run executable:**
-> [Download StaticIPConfig.exe](https://github.com/fouad-salehi/windows-set-static-ip-gui/releases/latest/download/StaticIPConfig.exe)
+> [Download WindowsSetStaticIPGUI.exe](https://github.com/fouad-salehi/windows-set-static-ip-gui/releases/latest/download/WindowsSetStaticIPGUI.exe)
 >
 > No Python installation required. Just download, run, and start configuring.
 
@@ -73,13 +73,13 @@ Then run `python main.py`.
 
 > [!TIP]
 > **Direct download:**
-> [StaticIPConfig.exe](https://github.com/fouad-salehi/windows-set-static-ip-gui/releases/latest/download/StaticIPConfig.exe)
+> [WindowsSetStaticIPGUI.exe](https://github.com/fouad-salehi/windows-set-static-ip-gui/releases/latest/download/WindowsSetStaticIPGUI.exe)
 
 Download the file and double-click it — no installation required.
 
 ## Usage
 
-1. Run `StaticIPConfig.exe` (or `python main.py`). It will automatically request administrator privileges.
+1. Run `WindowsSetStaticIPGUI.exe` (or `python main.py`). It will automatically request administrator privileges.
 2. Choose a tab from the interface:
    - **View Current IP** — View current IP configuration
    - **Set Static IP** — Set a static IPv4 address
@@ -93,7 +93,7 @@ cd build
 pyinstaller build.spec
 ```
 
-The output binary will appear in `build/dist/StaticIPConfig.exe`.
+The output binary will appear in `build/dist/WindowsSetStaticIPGUI.exe`.
 
 ## Project
 
